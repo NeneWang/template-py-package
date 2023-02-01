@@ -13,10 +13,10 @@ LONG_DESCRIPTION = 'A package that allows to print hello.'
 
 # Setting up
 setup(
-    name="ne",
+    name="netools",
     version=VERSION,
-    author="Nelson Wnag",
-    author_email="<mail@neuralnine.com>",
+    author="Nelson Wang",
+    author_email="<wangnelson2@gmail.com>",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=long_description,
